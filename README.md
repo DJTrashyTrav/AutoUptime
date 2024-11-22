@@ -1,6 +1,9 @@
 # AutoUptime
 My senior project - a python script that polls a domain controller for a pc list, then reboots them if they haven't been restarted in a set time.
 
+![image](https://github.com/user-attachments/assets/cff2eec5-396a-47d8-aefa-a62cbeea829b)
+
+
 #Auto Uptime – System Manual
 W. Travis Meeks – UAM – Fall 2024
 
